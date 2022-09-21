@@ -11,7 +11,7 @@
 
 - 🤝 I’m looking for help with **Exploit Development.**
 
-- 📝 I regularly write articles on Medium [https://sumedh00.medium.com/](https://sumedh00.medium.com/)
+- 📝 I regularly write articles on Medium (https://sumedh00.medium.com/)
 
 - 💬 Ask me about **Incident Response**
 
