@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sumedha Dawadu
+# 👋 Hi, I'm Sumedha Dawadi
 
 🚀 Blue Team - Security Researcher  
 ---
